@@ -1,9 +1,9 @@
-### Scrape Google Trends data for a given query and date range
+### Scrape Google Trends data for a given query and date range 
 ### harvardvibecoding/m01b/scrape.py
 ### 
 ### Author: Sharon Zhou and Mike Smith
 ### Date: 20250916
-###
+### NOTE: this application is not intended to be run in Codespaces (for DEMO only)
 ### Original idea and code from https://brightdata.com/blog/web-data/how-to-scrape-google-trends
 
 from selenium import webdriver
